@@ -6,7 +6,7 @@
     "express": "^4.15.2",
     "fecha": "^2.3.0",
     "log": "^1.4.0",
-    "mongodb": "^2.2.24",
+    "mongodb": "^3.6.1",
     "wechat": "^2.1.0",
     "wechat-api": "^1.32.0",
     "wechat-oauth": "^1.2.1"
